@@ -1,0 +1,7 @@
+F:\SLNS\UassetParser\UassetParser\bin\Debug\UassetParser.exe.config
+F:\SLNS\UassetParser\UassetParser\bin\Debug\UassetParser.exe
+F:\SLNS\UassetParser\UassetParser\bin\Debug\UassetParser.pdb
+F:\SLNS\UassetParser\UassetParser\obj\Debug\UassetParser.csprojAssemblyReference.cache
+F:\SLNS\UassetParser\UassetParser\obj\Debug\UassetParser.csproj.CoreCompileInputs.cache
+F:\SLNS\UassetParser\UassetParser\obj\Debug\UassetParser.exe
+F:\SLNS\UassetParser\UassetParser\obj\Debug\UassetParser.pdb
